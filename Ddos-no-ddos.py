@@ -7,7 +7,7 @@ import random
 
 # Clear the terminal
 os.system("clear")
-os.system("figlet Ddos-no-ddos")
+os.system("figlet DDoSlayer")
 
 print()
 print(colored("
